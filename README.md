@@ -1,7 +1,7 @@
-# 🔍 Fraud Detection ML App  
+#  Fraud Detection ML App  
 A machine learning–powered web application that predicts whether a financial transaction is **fraudulent** or **legitimate**, built using **Python, Scikit-Learn, and Streamlit**.
 
-## 🚀 Project Overview
+## Project Overview
 This project demonstrates an end-to-end implementation of a fraud detection system.  
 It includes:
 
@@ -15,7 +15,7 @@ Fraud detection is a highly imbalanced and sensitive domain, and this project fo
 
 ---
 
-## 🧠 Machine Learning Model
+## Machine Learning Model
 
 ### Model Used: Logistic Regression
 The model is trained using a **Scikit-Learn Pipeline**, which includes:
@@ -31,7 +31,7 @@ The final trained model is stored as:
 fraud_detection_model.pkl
 ---
 
-## 📊 Dataset
+## Dataset
 The dataset used is:
 AIML Dataset.csv (from Kaggle)
 
@@ -46,7 +46,7 @@ The dataset contains a highly **imbalanced** distribution of fraudulent vs legit
 
 ---
 
-## 🧪 Streamlit Web App
+## Streamlit Web App
 
 The Streamlit app (`fraud_detection.py`) allows users to:
 
